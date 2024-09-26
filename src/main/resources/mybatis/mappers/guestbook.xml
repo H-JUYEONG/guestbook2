@@ -14,7 +14,7 @@
 				   name, 
 			       password,     
 			       content,
-			       reg_date
+			       reg_date as regDate
 			from guest
 		]]>
 	</select>
