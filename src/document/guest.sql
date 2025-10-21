@@ -23,8 +23,7 @@ select    no,
       name,
         password,
         content,
-        reg_date,
-   id
+        reg_date
 from guest;
 
 select    no,
